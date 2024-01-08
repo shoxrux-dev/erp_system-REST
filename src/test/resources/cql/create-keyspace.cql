@@ -1,0 +1,1 @@
+CREATE KEYSPACE IF NOT EXISTS "erp_system" WITH replication = {'class':'NetworkTopologyStrategy','datacenter1':1};
